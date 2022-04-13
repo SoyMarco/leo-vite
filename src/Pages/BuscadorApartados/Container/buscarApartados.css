@@ -1,0 +1,19 @@
+.ant-select-show-search.ant-select:not(.ant-select-customize-input)
+	.ant-select-selector {
+	cursor: text;
+	border-radius: 50px;
+}
+.ant-select-show-search.ant-select:not(.ant-select-customize-input)
+	.ant-select-selector
+	input {
+	cursor: auto;
+	font-weight: bold;
+}
+#buscarApartadoInput:focus {
+	background: linear-gradient(#ffffff, #93ceff);
+	border-radius: 50px;
+	/* box-shadow: 1px 1px 10px #7e9ab1, -1px -1px 10px #a7d4f8; */
+}
+.ant-select-item-option-active:not(.ant-select-item-option-disabled) {
+	background: linear-gradient(#ffffff, #abd5f8);
+}

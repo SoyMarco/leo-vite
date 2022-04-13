@@ -1,0 +1,42 @@
+.finalTicket {
+	display: flex;
+	align-items: center;
+	place-content: flex-end;
+	padding: 0px;
+	max-width: 190px;
+}
+
+.cambio {
+	display: flex;
+	align-items: center;
+	place-content: flex-end;
+	padding-bottom: 15px;
+	max-width: 190px;
+
+	font-weight: bold;
+}
+.sutituloTicket {
+	text-align-last: center;
+	padding: 10px;
+	max-width: 190px;
+}
+.productos {
+	padding-bottom: 0px;
+	text-indent: initial;
+	border-bottom: 0.5px solid black;
+	border-top: 0.25px solid black;
+	width: 190px;
+}
+.productos td {
+	padding: 0.2em 0.8em;
+	text-align: left;
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+.subtituloTicketApartado {
+	padding: 0px;
+	max-width: 190px;
+
+	font-weight: bold;
+	margin-top: 15px;
+}

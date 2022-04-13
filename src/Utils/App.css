@@ -1,0 +1,11 @@
+.ant-layout-sider-trigger {
+	background: linear-gradient(#000066, #000058, #000036);
+}
+
+.ant-layout-sider-children {
+	background: white;
+	z-index: -1;
+}
+* {
+	font-family: "Roboto", sans-serif;
+}
